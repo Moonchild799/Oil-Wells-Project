@@ -1,0 +1,3 @@
+We need to choose the best region to drill a new oil well.
+
+We have been provided with oil samples from three regions: every one of them have 10 000 deposits, where they measured the quality of oil and the volume of its reserves. We will study the provided data, if necessary, we will do preprocessing. We will use this data to build a ML model that will help us identify the potentially most profitable region. After that, using the Bootstrap technique, we will analyze the profit and possible risks.
